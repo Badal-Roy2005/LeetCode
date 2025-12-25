@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0001-two-sum) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0007-reverse-integer) |
+## Greedy
+|  |
+| ------- |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+## Sorting
+|  |
+| ------- |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
