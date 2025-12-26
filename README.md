@@ -24,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
+## String
+|  |
+| ------- |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
