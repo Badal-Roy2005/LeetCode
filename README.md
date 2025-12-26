@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## String
 |  |
@@ -32,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
