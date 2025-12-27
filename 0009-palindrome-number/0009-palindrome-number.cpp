@@ -1,17 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if(x < 0){
+
+        // x with tailing zero will never be a palindrom
+        if(x < 0 || (x != 0 && x % 10 == 0)){
             return false;
         }
 
+        // half revesal 
         long long rev = 0;
-        int t = x;
-        while(x!=0){
+        while(x > rev){
             rev = rev * 10 + (x % 10);
             x /= 10;
         }
-
-        return rev == t;
+        // if even : rev == x;
+        // if odd : x = rev / 10
+        return rev == x || x == rev / 10;
     }
 };
