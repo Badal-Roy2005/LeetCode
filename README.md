@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Badal-Roy2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
@@ -72,5 +74,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
