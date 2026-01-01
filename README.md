@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Badal-Roy2005/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Badal-Roy2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -76,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Badal-Roy2005/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
