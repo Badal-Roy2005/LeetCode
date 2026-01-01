@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Badal-Roy2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0009-palindrome-number) |
+| [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -77,8 +78,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Badal-Roy2005/LeetCode/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
