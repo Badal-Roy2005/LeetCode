@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Math
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Badal-Roy2005/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Badal-Roy2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Badal-Roy2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
