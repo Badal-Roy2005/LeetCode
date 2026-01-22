@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Badal-Roy2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
