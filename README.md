@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Badal-Roy2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Badal-Roy2005/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Badal-Roy2005/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 ## String
 |  |
@@ -124,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Badal-Roy2005/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
