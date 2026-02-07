@@ -6,15 +6,14 @@ public:
         int j = 0 ;
         int len = a.size();
 
-
+        
         while(j < len){
-            if(a[i] == a[j]){
-                j++;
+            if(a[i] != a[j]){
+                i++;
+                a[i] = a[j];
+                
             }
-            else{
-                a[++i] = a[j]; 
-            
-            }
+            j++;
 
         }
     
