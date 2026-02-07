@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Badal-Roy2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0283-move-zeroes) |
 | [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Stack
 |  |
