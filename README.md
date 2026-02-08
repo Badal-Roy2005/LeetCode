@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
 ## Sliding Window
