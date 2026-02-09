@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Badal-Roy2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Badal-Roy2005/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Badal-Roy2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Badal-Roy2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Badal-Roy2005/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Badal-Roy2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
