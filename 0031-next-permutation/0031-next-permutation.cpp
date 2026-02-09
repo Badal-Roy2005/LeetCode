@@ -11,16 +11,14 @@ public:
         }
         if(break_point == -1) reverse(nums.begin(),nums.end());
         else{
-        reverse(nums.begin() + break_point + 1, nums.end());
-        int ind = 0;
-        for(int i = break_point + 1 ; i < nums.size();i++){
+
+        for(int i = nums.size() - 1; i>break_point;i--){
             if(nums[i] > nums[break_point]){
-                ind = i;
-                break;
+              swap(nums[break_point] , nums[i]);
+              break;
             }
         }
-        swap(nums[break_point] , nums[ind]);
-
+        reverse(nums.begin() + break_point + 1, nums.end());
         }
         
     }
