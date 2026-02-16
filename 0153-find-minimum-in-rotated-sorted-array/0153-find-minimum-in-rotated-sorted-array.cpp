@@ -4,21 +4,19 @@ public:
         int len = nums.size();
         int low = 0 ;
         int high = len - 1;
-        if(nums[low] <= nums[high]) return nums[low];
-        int ans = 5001;
-        while(low <= high){
+
+        while(low < high){
         int mid = low + (high - low) / 2;
 
-        if(nums[low] <= nums[mid]){
-        low = mid + 1;
-        if(nums[mid] > nums[low]) return nums[low];
+        if(nums[mid] > nums[high]){
+            low = mid + 1;
         }
         else{
-            high = mid - 1;
+            high = mid;
         }
             
         }
 
-        return 0;
+        return nums[low];
     }
 };
