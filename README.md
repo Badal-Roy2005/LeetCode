@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
 | [2481-strictly-palindromic-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/Badal-Roy2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Greedy
 |  |
 | ------- |
@@ -171,4 +172,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Badal-Roy2005/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Badal-Roy2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
