@@ -11,7 +11,7 @@ public:
                 se[t[i]] = s[i];
             }
             else{
-                if(mp[s[i]] != t[i] && se[t[i]] != s[i]){
+                if(mp[s[i]] != t[i] || se[t[i]] != s[i]){
                     return false;
                 }
             }
