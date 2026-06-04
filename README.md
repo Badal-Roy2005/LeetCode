@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Badal-Roy2005/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Badal-Roy2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -189,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Badal-Roy2005/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Badal-Roy2005/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
