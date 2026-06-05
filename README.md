@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Badal-Roy2005/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Badal-Roy2005/LeetCode/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Badal-Roy2005/LeetCode/tree/master/0389-find-the-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Badal-Roy2005/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Badal-Roy2005/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Badal-Roy2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Badal-Roy2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Badal-Roy2005/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/Badal-Roy2005/LeetCode/tree/master/0389-find-the-difference) |
 | [2032-largest-odd-number-in-string](https://github.com/Badal-Roy2005/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Prefix Sum
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Badal-Roy2005/LeetCode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
