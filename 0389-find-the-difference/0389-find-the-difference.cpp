@@ -1,15 +1,20 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin() , s.end());
-        sort(t.begin() , t.end());
-        int n = s.length();
-        int i = 0 ;
-        while(i < n){
-            if(s[i] != t[i]) return t[i];
-            i++;
+        vector<int> a(26,0) , b(26,0);
+        for(auto it : s) a[it - 'a']++;
+        for(auto it : t) b[it - 'a']++;
+        char c = '\0';
+        for(int i = 0 ;i < 26;i++){
+            if(a[i] != b[i]) {
+                c = i + 'a';
+                break;
+            }
+        }
 
-       }
-       return t[i];
+        return c;
+
+        
+        
     }
-};
+ };
