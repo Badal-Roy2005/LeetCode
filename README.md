@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Badal-Roy2005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Badal-Roy2005/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0204-count-primes) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/Badal-Roy2005/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Interactive
 |  |
