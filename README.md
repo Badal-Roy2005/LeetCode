@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Badal-Roy2005/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Badal-Roy2005/LeetCode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Badal-Roy2005/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/1013-fibonacci-number) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Badal-Roy2005/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Badal-Roy2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Badal-Roy2005/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/1013-fibonacci-number) |
@@ -244,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Badal-Roy2005/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Badal-Roy2005/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Badal-Roy2005/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Badal-Roy2005/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
