@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Badal-Roy2005/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Badal-Roy2005/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Badal-Roy2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Badal-Roy2005/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Badal-Roy2005/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Badal-Roy2005/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Breadth-First Search
 |  |
