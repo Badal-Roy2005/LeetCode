@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Badal-Roy2005/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Badal-Roy2005/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Badal-Roy2005/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Badal-Roy2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Badal-Roy2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Badal-Roy2005/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Badal-Roy2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Badal-Roy2005/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/Badal-Roy2005/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
