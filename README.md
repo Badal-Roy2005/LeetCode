@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Badal-Roy2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Badal-Roy2005/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Badal-Roy2005/LeetCode/tree/master/0338-counting-bits) |
