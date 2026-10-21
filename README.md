@@ -319,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Badal-Roy2005/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Badal-Roy2005/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Badal-Roy2005/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
