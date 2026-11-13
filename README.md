@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Badal-Roy2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Badal-Roy2005/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Badal-Roy2005/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Badal-Roy2005/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Badal-Roy2005/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Badal-Roy2005/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Badal-Roy2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Badal-Roy2005/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Badal-Roy2005/LeetCode/tree/master/0389-find-the-difference) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Badal-Roy2005/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Badal-Roy2005/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Badal-Roy2005/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Badal-Roy2005/LeetCode/tree/master/0389-find-the-difference) |
 | [0844-backspace-string-compare](https://github.com/Badal-Roy2005/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Badal-Roy2005/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [2032-largest-odd-number-in-string](https://github.com/Badal-Roy2005/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Badal-Roy2005/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Prefix Sum
