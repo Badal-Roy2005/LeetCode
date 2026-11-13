@@ -13,6 +13,9 @@ public:
                 j++;
             }
             if(j == words[i+1].size() && j < words[i].size()) return false;
+            if(j == words[i].size() || j == words[i+1].size())
+                continue;
+
             if(mp[words[i][j]] > mp[words[i+1][j]]) return false;
         }
         return true;
